@@ -12,7 +12,7 @@ const App = () => {
       <About />
       <Contact />
       <footer className="mx-auto max-w-7xl px-6 pb-12 pt-6 text-sm text-white/60">
-        © {new Date().getFullYear()} Your Name — Graphic Designer
+        © {new Date().getFullYear()} fachri iqbal waliyudin — Graphic Designer
       </footer>
     </div>
   );
